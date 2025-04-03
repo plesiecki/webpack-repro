@@ -1,0 +1,16 @@
+{
+  "name": "webpack-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "preact": "^10.26.4",
+    "webpack": "^5.98.0"
+  }
+}
